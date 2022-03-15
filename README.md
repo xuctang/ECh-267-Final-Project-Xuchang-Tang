@@ -14,3 +14,5 @@
  Please note that these two files might take a long time to run. For reference, it took me 45 - 60 min to run a ratio_arr length of 8 with 10 trials each. Please leave time for the code running.
  
  The code is the preliminary result due to limited time. It has not been optimized yet.
+ 
+ Since the project focuses on the robustness of MPC, you cannot reproduce the exact results. However, you can run and see the trend with higher number of trials. 
